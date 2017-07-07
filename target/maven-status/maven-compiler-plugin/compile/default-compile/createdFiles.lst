@@ -1,0 +1,8 @@
+pl/PartyInfor/repository/PostRepository.class
+pl/PartyInfor/app/AppInitializer.class
+pl/PartyInfor/controller/UserController.class
+pl/PartyInfor/controller/PostController.class
+pl/PartyInfor/entity/User.class
+pl/PartyInfor/repository/UserRepository.class
+pl/PartyInfor/entity/Post.class
+pl/PartyInfor/app/AppConfig.class
