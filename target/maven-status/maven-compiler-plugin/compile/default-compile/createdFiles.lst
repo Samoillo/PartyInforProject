@@ -1,8 +1,13 @@
-pl/PartyInfor/repository/PostRepository.class
-pl/PartyInfor/app/AppInitializer.class
+pl/PartyInfor/repository/DistrictRepository.class
 pl/PartyInfor/controller/UserController.class
 pl/PartyInfor/controller/PostController.class
-pl/PartyInfor/entity/User.class
 pl/PartyInfor/repository/UserRepository.class
 pl/PartyInfor/entity/Post.class
 pl/PartyInfor/app/AppConfig.class
+pl/PartyInfor/app/DistrictConverter.class
+pl/PartyInfor/controller/DistrictController.class
+pl/PartyInfor/repository/PostRepository.class
+pl/PartyInfor/app/AppInitializer.class
+pl/PartyInfor/entity/User.class
+pl/PartyInfor/app/UserConverter.class
+pl/PartyInfor/entity/District.class

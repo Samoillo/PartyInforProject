@@ -9,7 +9,8 @@
 <title>Warsaw Party Information</title>
 </head>
 <%@ include file="header.jsp" %>
-<body style="height:100%">
+<body style="height:100%; background:url(''); 
+background-repeat:no-repeat; background-attachment: fixed; background-position: center; ">
 
 <div class="container" style="width:65%">
 	<table class="table table-hover">

@@ -28,7 +28,7 @@
 <nav class="navbar navbar-inverse">
   <div class="container-fluid">
     <div class="navbar-header">
-  		 <a class="navbar-brand" href="/PartyInfor">  WarsawPartyInformation</a>
+  		 <a class="navbar-brand" href="/PartyInfor">  WarsawParty<b>Information</b></a>
     </div>
     <ul class="nav navbar-nav">
       <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href=""> Area<span class="caret"></span></a>

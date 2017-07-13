@@ -25,7 +25,19 @@
 <div style="text-align: right; max-width:81.5%;">
 <a href="users/verification" class="btn btn-success btn-sm">
           <span class="glyphicon glyphicon-send"></span> Send Post</a>
-</div><br>
+
+
+	<div class="col-sm-3 col-md-3 pull-right">
+        <form class="navbar-form" role="search">
+        <div class="input-group">
+            <input type="text" class="form-control" placeholder="Search" name="srch-term" id="srch-term">
+            <div class="input-group-btn">
+                <button class="btn btn-default" type="submit"><i class="glyphicon glyphicon-search"></i></button>
+            </div>
+        </div>
+        </form>
+   </div>
+
 <div class="container" style="max-width:65%">
 	<table class="table table-striped" style="word-wrap: break-word">
 		<tr class="success">
